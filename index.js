@@ -14,10 +14,10 @@ function deleteFromObjectByKey(object, key){
 }
 
 // const recipes = {};
-const recipes = {"eggs": 1};
+// const recipes = {"eggs": 1};
 
 
 
 
-console.log(deleteFromObjectByKey(recipes, "eggs"));
-console.log(recipes);
+// console.log(deleteFromObjectByKey(recipes, "eggs"));
+// console.log(recipes);
