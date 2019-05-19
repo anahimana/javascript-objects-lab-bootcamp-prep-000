@@ -25,5 +25,5 @@ const recipes = {"eggs": 1};
 
 
 
-// console.log(deleteFromObjectByKey(recipes, "eggs"));
-// console.log(recipes);
+console.log(destructivelyDeleteFromObjectByKey(recipes, "eggs"));
+console.log(recipes);
