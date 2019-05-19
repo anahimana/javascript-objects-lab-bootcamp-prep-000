@@ -20,10 +20,10 @@ function destructivelyDeleteFromObjectByKey(object, key){
 }
 
 // const recipes = {};
-const recipes = {"eggs": 1};
+// const recipes = {"eggs": 1};
 
 
 
 
-console.log(destructivelyDeleteFromObjectByKey(recipes, "eggs"));
-console.log(recipes);
+// console.log(destructivelyDeleteFromObjectByKey(recipes, "eggs"));
+// console.log(recipes);
