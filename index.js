@@ -20,4 +20,3 @@ function destructivelyDeleteFromObjectByKey(object, key){
 }
 
 const recipes = {};
-
